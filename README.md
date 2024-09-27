@@ -11,7 +11,7 @@ configuraciones basicas para trabajar con el frameword de Django
 - Seleccionar interprete  de python --> Presione F1
 - Actualizar pip --> python -m pip install --upgrade pip
 - Install Django --> python -m pip install django
-- Creando el proyecto --> django-admin startproject webcbtis_proy .
+- Creando el proyecto --> django-admin startproject webmuebleria_proy .
 - Realizar migracion al project pythn manage.py migrate
 - Ejecutar servidor --> python manage.py runserver
 - Me trabajó el proyecto
